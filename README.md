@@ -34,6 +34,6 @@ If you're stumped, here are some things to try out:
 3. Read a choose-your-own adventure book and diagram its structure.
 
 ## Additional Resources
-[Twine 2.0 guide] (http://twinery.org/wiki/twine2:guide)
-[TwineHub (archive of past Twine releases)](http://twinehub.weebly.com/index.html)
-[Cracked: The 7 Most F-ed Up Real ‘Choose Your Own Adventure’ Books](http://www.cracked.com/article_22188_7-choose-your-own-adventure-books-clearly-conceived-lsd.html)
+- [Twine 2.0 guide] (http://twinery.org/wiki/twine2:guide)
+- [TwineHub (archive of past Twine releases)](http://twinehub.weebly.com/index.html)
+- [Cracked: The 7 Most F-ed Up Real ‘Choose Your Own Adventure’ Books](http://www.cracked.com/article_22188_7-choose-your-own-adventure-books-clearly-conceived-lsd.html)
